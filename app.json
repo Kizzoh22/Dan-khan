@@ -27,7 +27,7 @@
     "DEV": {
   "description": "Put any phone numbers you want to be bot owner without + or spaces, separated by commas. Example: 254741388986,254100156216",
   "required": true,
-  "value": "254741254103068173"
+  "value": "254103068173"
 },
     "NOT_OWNER_MSG": {
       "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Owner only",
