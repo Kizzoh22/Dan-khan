@@ -14,20 +14,20 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": https://github.com/Kizzoh22/Dan-Khan#readme
-  "repository": https://github.com/Kizzoh22/Dan-Khan#readme
-  "logo": https://github.com/Kizzoh22/Dan-Khan#readme
+  "website": "https://github.com/Kizzoh22/Dan-Khan#readme",
+  "repository": "https://github.com/Kizzoh22/Dan-Khan.git",
+  "logo": "https://https://telegra.ph/file/eebe191a0520a79979b34.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of MZAZI-XMD Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of DAN_KHAN Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "required": false
 
     },
     "DEV": {
   "description": "Put any phone numbers you want to be bot owner without + or spaces, separated by commas. Example: 254741388986,254100156216",
   "required": true,
-  "value": "254741388986"
+  "value": "254741254103068173"
 },
     "NOT_OWNER_MSG": {
       "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Owner only",
