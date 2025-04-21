@@ -23,7 +23,7 @@ const packname = process.env.STICKER_PACKNAME || 'KHANS,,
 const dev = process.env.DEV || '254103068173';
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
-const DevMzazi = dev.split(",");
+const DevKhans= dev.split(",");
 const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
 const bad = process.env.BAD_WORD || 'fuck';
 const autoread = process.env.AUTOREAD || 'FALSE';
